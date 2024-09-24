@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I was able to complete this assignment with ease. I fully understand how to use if and elif statements, while loops, and for loops. I did need a quick refresher on how to make a dictionary and how to append to a dictionary. I fully understand everything now and remember all that was covered from 256.
